@@ -59,6 +59,7 @@
                         <suiteXmlFiles>
                             <!--suppress UnresolvedMavenProperty -->
                             <suiteXmlFile>${xmlFile}</suiteXmlFile>
+<!--                            ${xmlFile} -> placeholder name that must be used in CMD }-->
                         </suiteXmlFiles>
 
                     </configuration>
